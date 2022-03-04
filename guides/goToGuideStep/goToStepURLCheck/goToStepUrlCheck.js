@@ -1,3 +1,4 @@
+//This JS needs to be placed in a code block on the step before the content of the guide starts!!
 // GoTo a specific step if URL path matches
 (function goToStepNoElement() {
     // Warning: .getPositionOfStep() is 1-based
